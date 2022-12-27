@@ -1,6 +1,8 @@
 using AutoMapper;
+using BookCRUD.Data.IConnection;
 using BookCRUD.Service.Mapping;
 using BookCRUD.Service.Services;
+using BookCRUD.WebAPI.Connection.Concrete;
 using BookCrudApp.IServices;
 
 
@@ -13,8 +15,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
-
 var mappingConfig = new MapperConfiguration(mc =>
             {
                 mc.AddProfile(new MapProfile());
@@ -24,6 +24,8 @@ IMapper mapper = mappingConfig.CreateMapper();
 builder.Services.AddSingleton(mapper);
 
 builder.Services.AddSingleton<IBookService, BookService>();
+
+builder.Services.AddSingleton<IConnectionFactory, ConnectionFactory>();
 
 
 
