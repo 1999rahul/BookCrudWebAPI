@@ -1,0 +1,17 @@
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/bin/Debug/net6.0/BookCRUD.Services.deps.json
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/bin/Debug/net6.0/BookCRUD.Services.dll
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/bin/Debug/net6.0/ref/BookCRUD.Services.dll
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/bin/Debug/net6.0/BookCRUD.Services.pdb
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/bin/Debug/net6.0/BookCRUD.Data.dll
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/bin/Debug/net6.0/BookCRUD.Domain.dll
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/bin/Debug/net6.0/BookCRUD.Data.pdb
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/bin/Debug/net6.0/BookCRUD.Domain.pdb
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/obj/Debug/net6.0/BookCRUD.Services.csproj.AssemblyReference.cache
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/obj/Debug/net6.0/BookCRUD.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/obj/Debug/net6.0/BookCRUD.Services.AssemblyInfoInputs.cache
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/obj/Debug/net6.0/BookCRUD.Services.AssemblyInfo.cs
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/obj/Debug/net6.0/BookCRUD.Services.csproj.CoreCompileInputs.cache
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/obj/Debug/net6.0/BookCRUD.Services.csproj.CopyComplete
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/obj/Debug/net6.0/BookCRUD.Services.dll
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/obj/Debug/net6.0/ref/BookCRUD.Services.dll
+/home/rahul1999/Desktop/C#PlayGround/AssignMent/BookCRUD.Service/obj/Debug/net6.0/BookCRUD.Services.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hf0nmNnB7hdxaNGfemyWCup9mKZyxLf0lWB0ljX8McA=",
+  "Source": "BookCRUD.WebAPI",
+  "BasePath": "_content/BookCRUD.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
